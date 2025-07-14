@@ -95,7 +95,7 @@ nome, data_nascimento, tipo_cliente
 
 ---
 
-## 👨‍💻 Desenvolvido por:
-
-**Jhonny Marcelo de Oliveira**  
-Especialista em Redes | Python para Dados | Streamlit | Transformação Digital
+📅 Projeto iniciado: **Junho de 2025**  
+👤 Autor: **Jhonny Marcelo de Oliveira**  
+📫 Acompanhe no LinkedIn: [Jhonny M. Oliveira](https://www.linkedin.com/in/jhonnymoliveira/)  
+🚀 Engenheiro Eletricista com Ênfase em Telecomunicações | Especialista em Redes | Entusiasta por soluções em Python, Automações e Transformação Digital.
